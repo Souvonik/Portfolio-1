@@ -1,8 +1,5 @@
-import { cn } from '@/lib/utils';
-import AnimatedGradientText from '../ui/animated-gradient-text';
-import AnimatedGridPattern from '../ui/animated-grid-pattern';
-import Link from 'next/link';
-import HeroText from '../ui/HeroText';
+
+import AnimatedGridPattern from '../ui/animated-grid-pattern';import HeroText from '../ui/HeroText';
 import ScrollRevealSection from '../ui/ScrollRevealSection';
 
 const Hero = () => {
