@@ -13,15 +13,6 @@
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
-- [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
@@ -96,3 +87,7 @@ To run the project, execute the following command:
 
 
 "# Portfolio-1" 
+
+
+https://github.com/user-attachments/assets/d9e60d14-7176-4515-88fa-7c771dc4bbf8
+
